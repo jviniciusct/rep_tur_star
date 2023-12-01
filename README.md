@@ -2,6 +2,7 @@
 
 ![Design_sem_nome-removebg-preview (1)](https://github.com/jviniciusct/rep_tur_star/assets/143663958/a852f740-df1a-4198-904e-4be4fcb3a172)
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 - Descrição do projeto: O nosso projeto tem como foco a criação de um aplicativo de turismo que funcionará tanto para moradores locais quanto para visitantes. O aplicativo seria interativo, pois funcionaria através de gamificação, onde os usuários poderiam acumular pontos e trocar por descontos em empreendimentos locais.
   
