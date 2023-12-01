@@ -1,6 +1,6 @@
 # rep_tur_star
 
-![Design_sem_nome-removebg-preview](https://github.com/jviniciusct/rep_tur_star/assets/143663958/86b61db0-f71f-49c2-88b3-79c859c62857)
+![Design_sem_nome-removebg-preview (1)](https://github.com/jviniciusct/rep_tur_star/assets/143663958/a852f740-df1a-4198-904e-4be4fcb3a172)
 
 
 - Descrição do projeto: O nosso projeto tem como foco a criação de um aplicativo de turismo que funcionará tanto para moradores locais quanto para visitantes. O aplicativo seria interativo, pois funcionaria através de gamificação, onde os usuários poderiam acumular pontos e trocar por descontos em empreendimentos locais.
